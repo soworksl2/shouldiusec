@@ -14,10 +14,10 @@ Write articles, make videos, investigate, write code to show, is not an easy tas
 
 My social media are:
 
-Github: You are here bro -,-
-Youtube: [@jvivas-code](https://www.youtube.com/@jvivas-code)
-Linkedin: [@J.Avuasviva](https://www.linkedin.com/in/jimy-aguasviva-781b32200/)
-X(Twitter): [@soworksl](https://x.com/soworksl)
+- Github: You are here bro -,-
+- Youtube: [@jvivas-code](https://www.youtube.com/@jvivas-code)
+- Linkedin: [@J.Avuasviva](https://www.linkedin.com/in/jimy-aguasviva-781b32200/)
+- X(Twitter): [@soworksl](https://x.com/soworksl)
 
 ## Finding Job
 
